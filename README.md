@@ -1,22 +1,23 @@
 ## Hi there 👋 I'm Yuan
 
-- 💻 Fourth-year B.CS student at Dalhousie
-- 🔭 Part-time Software Developer at Ashored Inc.
+- 💻 Fourth-year B.CS student at [Dalhousie](https://www.dal.ca/)
+- 🔭 Part-time Software Developer at [Ashored Inc.](https://ashored.ca/)
 - ✨ Interested in DevOps, Cloud, Backend
 - 📍 Halifax NS Canada
+- 👀 Looking for Co-op Winter 2024 / New Grad position 2024
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yn416226@gmail.com) [![LinkedIn]( https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuanw10/)
 
 Thanks for dropping by.
 
 <details>
-<summary>More personal info 💬</summary> <br>
-<ul>
-  <li>🧑‍💼 Ex-Accountant at EY</li>
-  <li>🧑‍💻 Woman in Tech</li>
-  <li>🏳️‍🌈 LGBTQ2+</li>
-  <li>🐱 Cat lover</li>
-  <li>🌏 From Beijing, China</li>
-</ul>
+  <summary>More personal info 💬</summary> <br>
+  <ul>
+    <li>🧑‍💼 Ex-Accountant at EY</li>
+    <li>🧑‍💻 Woman in Tech</li>
+    <li>🏳️‍🌈 LGBTQ2+</li>
+    <li>🐱 Cat lover</li>
+    <li>🌏 From Beijing, China</li>
+  </ul>
 </details>
 
 
@@ -53,5 +54,5 @@ Thanks for dropping by.
 
 #### Currently learning
 ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
