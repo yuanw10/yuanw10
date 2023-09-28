@@ -2,9 +2,10 @@
 
 - 💻 Fourth-year B.CS student at [Dalhousie](https://www.dal.ca/)
 - 🔭 Part-time Software Developer at [Ashored Inc.](https://ashored.ca/)
+- 🧑‍💼 Incoming Dev Intern (Co-op Winter 2024) at [Dash Hudson](https://www.dashhudson.com/) 
 - ✨ Interested in DevOps, Cloud, Backend
 - 📍 Halifax NS Canada
-- 👀 Looking for Co-op Winter 2024 / New Grad position 2024
+- 👀 Looking for New Grad position 2024
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yn416226@gmail.com) [![LinkedIn]( https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuanw10/)
 
 Thanks for dropping by.
