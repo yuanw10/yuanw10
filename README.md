@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm Yuan
 
 - 💻 Fourth-year B.CS student at [Dalhousie](https://www.dal.ca/)
-- 🔭 Part-time Software Developer at [Ashored Inc.](https://ashored.ca/)
-- 🧑‍💼 Incoming Dev Intern (Co-op Winter 2024) at [Dash Hudson](https://www.dashhudson.com/) 
+- 🧑‍💼 Dev Intern (Co-op Winter 2024) at [Dash Hudson](https://www.dashhudson.com/)
+- 🔭 Past Software Developer at [Ashored Inc.](https://ashored.ca/), Past Research Assistant (Machine Learning)
 - 📍 Halifax NS Canada
-- 👀 Looking for New Grad position 2024
+- 👀 Actively seeking a junior dev position in 🇨🇦 starting Sep 2024
+- 💭 Describes me: quick-learner, perfectionist, diligent, focused, analytical, humble, humorous
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yn416226@gmail.com) [![LinkedIn]( https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuanw10/)
 
 Thanks for dropping by.
