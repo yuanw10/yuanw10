@@ -1,15 +1,13 @@
 ## Hi there 👋
 
 - 🏫 Fourth-year Computer Science student at Dalhousie University
-- 🧑‍💻 Dev Intern (Co-op Winter 2024) at Dash Hudson
-- 💼 Past: Backend & DevOps Developer, Research Assistant (Machine Learning)
 - 📍 Halifax NS Canada
 
 Thanks for dropping by.
 
 <details>
   <summary>💛 from 阿苗仔 </summary>
-  <img src="https://firebasestorage.googleapis.com/v0/b/fir-ce471.appspot.com/o/IMG_9563.jpeg?alt=media&token=07c33296-fcbf-4d85-b139-ef3fa2f9c60a" width="300"></img>
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-ce471.appspot.com/o/IMG_9563.jpeg?alt=media&token=07c33296-fcbf-4d85-b139-ef3fa2f9c60a" width="400"></img>
 </details>
 
 ## What I use
